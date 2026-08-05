@@ -2,7 +2,7 @@
 name = "void-vpn"
 version = "0.1.0"
 description = "Cross-platform proxy client for sing-box extended"
-requires-python = "==3.14"
+requires-python = "==3.14.*"
 dependencies = [
     "kivy>=2.3.0",
     "kivymd==1.2.0",
